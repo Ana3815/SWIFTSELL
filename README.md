@@ -45,9 +45,35 @@ Si estás utilizando un emulador, selecciona el emulador adecuado en la barra de
 haz clic en el botón "Run" (Ejecutar). Si estás utilizando un dispositivo físico, 
 asegúrate de haberlo conectado correctamente y selecciona el dispositivo en la barra de herramientas antes de hacer clic en el botón "Run".
 
+Instalacion Base de Datos
+.Si estás utilizando XAMPP, puedes seguir estos pasos para importar una base de datos a MySQL utilizando phpMyAdmin:
+
+1.Abre XAMPP y asegúrate de que los servicios de Apache y MySQL estén iniciados. 
+Si no están iniciados, haz clic en los botones "Start" o "Iniciar" correspondientes.
+
+2.Abre tu navegador web y accede a phpMyAdmin. Por lo general, puedes ingresar la URL "http://localhost/phpmyadmin".
+
+3.Inicia sesión en phpMyAdmin con tu nombre de usuario y contraseña de MySQL.
+
+4.Una vez que hayas iniciado sesión, verás la interfaz de phpMyAdmin. En el panel de la izquierda, selecciona la base de datos donde deseas importar los datos. Si la base de datos aún no existe, puedes crear una nueva seleccionando "Crear una base de datos" e ingresando un nombre para la base de datos.
+
+5.Después de seleccionar la base de datos, ve a la pestaña "Importar" en la parte superior de la pantalla.
+
+6.En la sección "Archivos a importar", haz clic en el botón "Examinar" o "Seleccionar archivo" para buscar y seleccionar el archivo de la base de datos que deseas importar desde tu computadora. Asegúrate de que el archivo de la base de datos esté en un formato compatible, como SQL.
+
+7.Una vez que hayas seleccionado el archivo, haz clic en el botón "Continuar" para iniciar el proceso de importación.
+
+8.phpMyAdmin procesará el archivo y realizará la importación de la base de datos. Esto puede llevar algún tiempo dependiendo del tamaño de la base de datos y la velocidad de tu servidor.
+
+9.Una vez completada la importación, verás un mensaje indicando que la importación se ha realizado con éxito.
+
 **CREDITOS** 
 **Ana Maria Rivera Arango**
+
 **Sairy Ximena Mosquera Garcia**
+
 **Andres Felipe Ramirez Espinal**
+
+
 
 
