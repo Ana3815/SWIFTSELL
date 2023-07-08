@@ -68,6 +68,7 @@ Si no están iniciados, haz clic en los botones "Start" o "Iniciar" correspondie
 9.Una vez completada la importación, verás un mensaje indicando que la importación se ha realizado con éxito.
 
 **CREDITOS** 
+
 **Ana Maria Rivera Arango**
 
 **Sairy Ximena Mosquera Garcia**
